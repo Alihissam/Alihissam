@@ -1,4 +1,4 @@
-- Hi Guys. Welcome To Alihissam's Github. 👋 
+  Hi People. Welcome To Hamna's Github. 👋
 - Anonymous Boy stucked in the world of Developers💃
 - Learn About Alihissam ❤️
 - 💞️ I’m looking to collaborate on ...
@@ -25,7 +25,5 @@ What can i do?
 📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
 🧑💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux and JSON coding.
 🔨 Convert graphic designs to usable web images using React JS.
-Reach Hamna
-📫 How to reach me: Linked In Facebook
-😄 Pronouns: Her/She
-Hamnas GitHub stats
+
+
