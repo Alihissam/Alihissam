@@ -1,17 +1,15 @@
-  Hi People. Welcome To Hamna's Github. 👋
+  # Hi People. Welcome To Hamna's Github. 👋
 - Anonymous Boy stucked in the world of Developers💃
 - Learn About Alihissam ❤️
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 Hi People. Welcome To Hamna's Github. 👋
 Anonymous girl stucked in the world of Developers🙋💃
 
 Learn About Hamna Iqbal Khan ❤️
-___________________________________________________
-
 
 My Work Experience:
+
 ☕ Built Site for Starbucks of Trinidad & Tobago.
 🙋 Ex Employee at Nastech as Front End Web Developer.
 🙋 Working at TechnoSpark & Co. as Next JS Developer.
